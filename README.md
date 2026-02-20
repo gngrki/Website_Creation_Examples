@@ -15,6 +15,9 @@ Because I use TikTok to show my art and processes I wanted to have interactive p
 |------|------|
 | <img width="400"  alt="Screenshot 2026-02-20 at 11 24 41" src="https://github.com/user-attachments/assets/27c8728d-88ab-4a17-8a3c-3abfd841fc39" /> | <img width="400" alt="Screenshot 2026-02-20 at 11 25 14" src="https://github.com/user-attachments/assets/c0dbd34e-2def-471d-8113-c66b6a71d700" /> |
 # Conclusion
-I'm sure Wordpress is appraised for a reason but when using templates I prefer Blogger more since I do like a bit more freedom without paying extra.  
+I'm sure Wordpress is appraised for a reason but when using templates for personal use I prefer Blogger more since I do like a bit more freedom with code without paying extra.  
 One more thing I noticed is that Wordpress asks for premium to show statistics, Blogger doesn't.
+
+Wordpress is clearly made for professionals who can use many plug-ins that Wordpress offers with subscriptions, like SEO, ecommerce, analytics etc,  whilst Blogger is more for personal use. I have just learned about Wordpress.org which supposedly has more features to play with so I will check it out later.
+
 
