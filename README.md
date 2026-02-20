@@ -13,5 +13,8 @@ Because I use TikTok to show my art and processes I wanted to have interactive p
 #### What 'free' Wordpress shows compared to what 'free' Blogger shows
 | [Wordpress](https://chr0makala.wordpress.com/) | [Blogger](https://chromakala.blogspot.com/) |
 |------|------|
-| <img width="400"  alt="Screenshot 2026-02-20 at 11 24 41" src="https://github.com/user-attachments/assets/27c8728d-88ab-4a17-8a3c-3abfd841fc39" /> | <img width="400" alt="Screenshot 2026-02-20 at 11 25 14" src="https://github.com/user-attachments/assets/c0dbd34e-2def-471d-8113-c66b6a71d700" />
+| <img width="400"  alt="Screenshot 2026-02-20 at 11 24 41" src="https://github.com/user-attachments/assets/27c8728d-88ab-4a17-8a3c-3abfd841fc39" /> | <img width="400" alt="Screenshot 2026-02-20 at 11 25 14" src="https://github.com/user-attachments/assets/c0dbd34e-2def-471d-8113-c66b6a71d700" /> |
+# Conclusion
+I'm sure Wordpress is appraised for a reason but when using templates I prefer Blogger more since I do like a bit more freedom without paying extra.  
+One more thing I noticed is that Wordpress asks for premium to see statistics, Blogger doesn't.
 
