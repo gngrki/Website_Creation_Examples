@@ -1,5 +1,4 @@
-# Website_Creation_Examples
-Websites for art showcase
+# Websites for art showcase
 
 # Backstory
 I've created 2 websites for my artwork. I wanted to use templates for ease and thought Wordpress is a good idea to learn, since it's highly appraised. 
