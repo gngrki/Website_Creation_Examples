@@ -2,8 +2,16 @@
 
 ## Backstory
 I've created 2 websites for my artwork. I wanted to use templates for ease and thought Wordpress is a good idea to learn, since it's highly appraised. 
-I soon discovered that it doesn't give me the freedom to use HTML in some cases (exp. using embed features need subscription).  
+I soon discovered that it doesn't give me the freedom to use HTML in some cases (exp. using embed code features need subscription).  
 So I made another one in Blogger which I have used since 2009 for my personal blog.
 | [Wordpress](https://chr0makala.wordpress.com/) | [Blogger](https://chromakala.blogspot.com/) |
 |------|------|
 | <img width="400" alt="Blogger.com" src="https://github.com/user-attachments/assets/b0a32364-8435-4f9e-9cc0-a89c7a445042" /> | <img width="400" alt="Screenshot 2026-02-20 at 11 13 59" src="https://github.com/user-attachments/assets/ec57a496-4e16-4998-88a1-a52349072dc0" /> |
+# Problem with embed code
+Because I use TikTok to show my art and processes I wanted to have interactive panel in my showcase.
+
+#### What 'free' Wordpress shows compared to what 'free' Blogger shows
+| [Wordpress](https://chr0makala.wordpress.com/) | [Blogger](https://chromakala.blogspot.com/) |
+|------|------|
+| <img width="400"  alt="Screenshot 2026-02-20 at 11 24 41" src="https://github.com/user-attachments/assets/27c8728d-88ab-4a17-8a3c-3abfd841fc39" /> | <img width="400" alt="Screenshot 2026-02-20 at 11 25 14" src="https://github.com/user-attachments/assets/c0dbd34e-2def-471d-8113-c66b6a71d700" />
+
