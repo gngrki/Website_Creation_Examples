@@ -1,25 +1,27 @@
 # Websites for art showcase
 
 ## Backstory
-I've created 2 websites for my artwork. I wanted to use templates for ease and thought Wordpress is a good idea to learn, since it's highly appraised. 
-I soon discovered that it doesn't give me the freedom to use HTML in some cases (exp. using embed code features need subscription).  
-So I made another one in Blogger which I have used since 2009 for my personal blog. I remembered that this one had HTML and was totally free to edit.
+I've created 2 websites for my artwork. For each I gave around 2 hours to format and edit. I wanted to use templates for ease and thought Wordpress is a good idea since it's highly appraised. 
+I soon discovered that it doesn't give me the freedom to use HTML code in some cases (exp. using embed code features which needs subscription).  
+So I made another showcase in Blogger which I have used since 2009 for my personal blog. I remembered that this one had HTML abilities and it was totally free to edit.
 | [Wordpress](https://chr0makala.wordpress.com/) | [Blogger](https://chromakala.blogspot.com/) |
 |------|------|
-| <img width="400" alt="Blogger.com" src="https://github.com/user-attachments/assets/b0a32364-8435-4f9e-9cc0-a89c7a445042" /> | <img width="400" alt="Screenshot 2026-02-20 at 11 13 59" src="https://github.com/user-attachments/assets/ec57a496-4e16-4998-88a1-a52349072dc0" /> |
+| <img width="400" alt="Wordpress" src="https://github.com/user-attachments/assets/b0a32364-8435-4f9e-9cc0-a89c7a445042" /> | <img width="400" alt="Blogger" src="https://github.com/user-attachments/assets/80ce1584-59b6-4419-b4cf-81a1dfbf6072" />
 # Problem with embed code
-Because I use TikTok to show my art and processes I wanted to have interactive panel in my showcase.
+I wanted to have interactive TikTok account panel in my showcase because I use TikTok to show my art to wider audiences.
 
 #### What 'free' Wordpress shows compared to what 'free' Blogger shows
 | [Wordpress](https://chr0makala.wordpress.com/) | [Blogger](https://chromakala.blogspot.com/) |
 |------|------|
-| <img width="400"  alt="Screenshot 2026-02-20 at 11 24 41" src="https://github.com/user-attachments/assets/27c8728d-88ab-4a17-8a3c-3abfd841fc39" /> | <img width="400" alt="Screenshot 2026-02-20 at 11 25 14" src="https://github.com/user-attachments/assets/c0dbd34e-2def-471d-8113-c66b6a71d700" /> |
+| <img width="400"  alt="Wordpress" src="https://github.com/user-attachments/assets/27c8728d-88ab-4a17-8a3c-3abfd841fc39" /> | <img width="400" alt="Blogger" src="https://github.com/user-attachments/assets/aa6b003e-9a15-404e-996a-5d78378a983c" /> 
+## My take
+- I do like Wordpress design features generally more, since the padding and other formatting makes portfolio look classier. There's also AI image creation that makes really great images to use for posts.
+- Blogger has some templates that look nice too but they lack some features and you can't really change too much unless using CSS code to add more formatting options (I used it to add shadows behind my title). Padding-wise it's not too bad, but has less options than Wordpress. 
+- Another thing I noticed is that Wordpress asks for subscription to show statistics, Blogger doesn't.
+- And the main problem - embed code - if I'd be willing to pay for my portfolio, I could definitely use the TikTok panel in Wordpress too. I think Wordpress's sleek design wins over TikTok embed code.
+
 # Conclusion
-I'm sure Wordpress is appraised for a reason but when using templates for personal use I prefer Blogger more since I do like a bit more freedom with code without paying extra.  
-I do like Wordpress design features generally more, since the padding and other formatting makes portfolio look much nicer. Blogger has some templates that look nice too but then lack some other feature, sidepanel or has too many of them and you can't really change that so much.  
-One more thing I noticed is that Wordpress asks for premium to show statistics, Blogger doesn't.
-
-Wordpress is clearly made for professionals who can use many plug-ins that Wordpress offers with subscriptions, like SEO, ecommerce, analytics etc, whilst Blogger is more for personal use. 
-I have just learned about Wordpress.org which supposedly has more features to play with so I will check it out later.
-
+Wordpress is definitely better for e-commerce and business wise. With it's paid version there's a lot of plug-in features,  page analytics, SEO, etc.  
+Blogger is just what it says it is - for blogs, a personal diary or poem corner.  
+And they're both great to use, it just depends on the budget and needs that decides which one is more reasonable.
 
